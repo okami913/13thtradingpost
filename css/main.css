@@ -76,7 +76,7 @@ header {
 
 
 h1 {
-  font-family: moon;
+  font-family: light;
   margin: 15px 0;
   font-size: 2.75em;
   font-weight: normal;
@@ -104,7 +104,7 @@ NAVIGATION
   list-style: none;
   color: #643584;
   font-size: .75em;
-  font-family: moon;
+  font-family: light;
   padding: 30px 50px 30px 50px
 
 
@@ -180,7 +180,7 @@ footer {
   clear: both;
   padding-top: 50px;
   color: #643584;
-  font-family: moon;
+  font-family: light;
 }
 
 .social-icon {
@@ -197,7 +197,7 @@ PAGE PORTFOLIO
   margin: 0;
   padding 0;
   list-style: none;
-  font-family: moon;
+  font-family: light;
 }
 
 #gallery li {
@@ -207,7 +207,7 @@ PAGE PORTFOLIO
   background-color: #ffffff00;
   color: #643584;
   border-radius: 20px;
-  font-family: moon;
+  font-family: light;
   font-size: .75em;
 }
 
@@ -231,7 +231,7 @@ PAGE ABOUT
   list-style: none;
   color: #643584;
   font-size: .75em;
-  font-family: moon;
+  font-family: light;
   padding: 30px 50px 30px 50px;
 }
 
@@ -240,7 +240,7 @@ PAGE ABOUT
   list-style: none;
   color: #643584;
   font-size: 1.50em;
-  font-family: moon;
+  font-family: light;
   padding: 30px 50px 30px 50px;
 }
 .about2{
@@ -248,14 +248,14 @@ PAGE ABOUT
   list-style: none;
   color: #643584;
   font-size: 1em;
-  font-family: moon;
+  font-family: light;
 }
 .about3{
   text-align: center;
   list-style: none;
   color: #643584;
   font-size: 1.50em;
-  font-family: moon;
+  font-family: light;
 }
 
 
