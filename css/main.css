@@ -8,7 +8,7 @@ GENERAL
 
 @font-face {
   font-family: light;
-  src: url(fonts/MoonLight.eot?) format('eot'), url('fonts/MoonLight.woff') format('woff'), url('fonts/MoonLight.ttf') format('truetype');
+  src: url(fonts/MoonLight.eot?) format(eot), url(fonts/MoonLight.woff) format(woff), url(fonts/MoonLight.ttf) format(truetype);
 }
 
 body {
